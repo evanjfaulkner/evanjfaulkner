@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @evanjfaulkner
-- I'm a Ph.D. student in the Department of Electrical and Computer Engineering at the University of Washington
-- 📫 evanjf5@uw.edu
+- 👋 Hi, I’m Evan Faulkner
+- Here, you'll mostly find things from my time in grad school at the University of Washington.
